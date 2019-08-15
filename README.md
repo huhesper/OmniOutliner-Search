@@ -25,4 +25,4 @@
 	- 自动切换到OmniOutliner程序，所选内容被自动定位。
 ![](CleanShot%202019-08-14%20at%2021.53.55@2x-1.png)
 #### 详细文章
-[Web:OmniOutliner’s Alfred Search Workflow – Knowledgeworktool](http://knowledgeworktool.com/omnioutliners-alfred-search-workflow/)
+[Web:OmniOutliner的Alfred搜索Workflow – Knowledgeworktool](http://knowledgeworktool.com/omnioutlineralfredworkflow/)
