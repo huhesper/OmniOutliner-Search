@@ -11,8 +11,10 @@
 	- Automatically switch to the OmniOutliner program and the selection is automatically located.
 ![](CleanShot%202019-08-14%20at%2021.53.55@2x.png)
 #### Detailed article
-[Web:OmniOutliner’s Alfred Search Workflow – Knowledgeworktool](http://knowledgeworktool.com/omnioutliners-alfred-search-workflow/)
+[Web:OmniOutliner’s Alfred Search Workflow – Free yourself as it is](http://freedom.hesperhu.com/omnioutliners-alfred-search-workflow/)
 ### 中文说明
+#### 详细文章
+[Web:OmniOutliner的Alfred搜索Workflow – Free yourself as it is](http://freedom.hesperhu.com/omnioutlineralfredworkflow/)
 - 安装：
 	- 双击下载下来的“OmniOutliner Search.alfredworkflow”
 	- Alfred会打开，选择导入安装即可。
@@ -24,5 +26,3 @@
 - 使用鼠标或者键盘选择需要查看的内容
 	- 自动切换到OmniOutliner程序，所选内容被自动定位。
 ![](CleanShot%202019-08-14%20at%2021.53.55@2x-1.png)
-#### 详细文章
-[Web:OmniOutliner的Alfred搜索Workflow – Knowledgeworktool](http://knowledgeworktool.com/omnioutlineralfredworkflow/)
